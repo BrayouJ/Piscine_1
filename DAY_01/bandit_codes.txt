@@ -1,0 +1,7 @@
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw	find -type f -exec file {} \;
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj	find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
